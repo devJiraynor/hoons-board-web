@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: 'board-react',
-    script: 'index.js',
+    script: 'build/index.js',
     watch: '.'
   }, {
     script: './service-worker/',
